@@ -1,0 +1,1 @@
+# holixon-schema-registry

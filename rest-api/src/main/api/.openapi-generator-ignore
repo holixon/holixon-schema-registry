@@ -1,0 +1,5 @@
+**/openapi/pom.xml
+**/openapi/README.md
+**/openapi/src/main/resources/application.yaml
+**/openapi/src/gen/kotlin/io/holixon/avro/schema/registry/rest/Application.kt
+**/openapi/src/gen/kotlin/io/holixon/avro/schema/registry/rest/api/ApiUtil.kt
