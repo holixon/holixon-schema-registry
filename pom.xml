@@ -27,7 +27,7 @@
     <spring-cloud-openfeign.version>2.2.5.RELEASE</spring-cloud-openfeign.version>
     <avro-registry-adapter.version>0.1.0</avro-registry-adapter.version>
     <springfox.version>3.0.0</springfox.version>
-    <avro.version>1.10.2</avro.version>
+    <avro.version>1.11.1</avro.version>
   </properties>
 
   <modules>
