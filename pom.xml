@@ -23,7 +23,7 @@
     <!-- Skip instrumentalization by default -->
     <jacoco.skip>true</jacoco.skip>
 
-    <spring-boot.version>2.5.5</spring-boot.version>
+    <spring-boot.version>3.0.4</spring-boot.version>
     <spring-cloud-openfeign.version>2.2.5.RELEASE</spring-cloud-openfeign.version>
     <avro-registry-adapter.version>0.1.0</avro-registry-adapter.version>
     <springfox.version>3.0.0</springfox.version>
